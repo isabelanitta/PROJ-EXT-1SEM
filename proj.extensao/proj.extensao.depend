@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1751905420 source:c:\users\laris\onedrive\imagens\documentos\lp1\proj.extensao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+
